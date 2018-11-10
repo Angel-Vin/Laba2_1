@@ -1,0 +1,68 @@
+.class1{
+
+  background: linear-gradient(350deg,black , gainsboro);
+  /*border-radius: 6px;*/
+  height: 700px;
+  /*border: 5px solid yellow;*/
+  position: relative;
+
+}
+.class2{
+  position:absolute;
+  width: 285px;
+  height: 85px;
+  /*border: 5px solid red;*/
+  top: 15%; /* Положение от нижнего края */
+  left: 35%;
+
+}
+
+.class3{
+  position:absolute;
+  width: 300px;
+  height: 50px;
+  /*border: 5px solid lightgoldenrodyellow;*/
+  top: 30%; /* Положение от нижнего края */
+  left: 35%;
+
+}
+input::-webkit-input-placeholder { color: white; }
+.button1{
+  background: #888888;
+  /*font-size: 24px; !* Размер шрифта *!*/
+  padding: 9px 20px;
+  color: gainsboro; /* Цвет текста */
+  border: 2px solid darkgray; /* Параметры рамки */
+  border-radius: 5px;
+}
+
+.button2{
+
+  background: #888888;
+  /*font-size: 24px; !* Размер шрифта *!*/
+  margin-top: 10px;
+  padding: 9px 20px;
+  color: gainsboro; /* Цвет текста */
+  border: 2px solid darkgray; /* Параметры рамки */
+  border-radius: 5px;
+}
+.button3{
+  width:280px;
+  height:47px;
+  background: white;
+  margin-top: 10px;
+  color: black; /* Цвет текста */
+  border: 2px solid darkgray; /* Параметры рамки */
+  border-radius: 5px;
+
+}
+input {
+  font-family: 'Verdana', serif;
+  font-size: 18px; /* Размер шрифта */
+}
+p{
+  font-family: 'Comic Sans MS', serif;
+  font-size: 35px; /* Размер шрифта */
+  color: white;
+
+}
