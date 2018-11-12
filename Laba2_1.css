@@ -47,13 +47,14 @@ input::-webkit-input-placeholder { color: white; }
   border-radius: 5px;
 }
 .button3{
-  width:280px;
+  width:290px;
   height:47px;
   background: white;
   margin-top: 10px;
   color: black; /* Цвет текста */
   border: 2px solid darkgray; /* Параметры рамки */
   border-radius: 5px;
+  cursor: pointer;
 
 }
 input {
